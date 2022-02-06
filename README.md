@@ -1,2 +1,2 @@
-# UCB-Challenge
-Contains each weekly challenge from UCB.
+# Challenge 01 Code Refactor
+Refactor code for Horiseon website
